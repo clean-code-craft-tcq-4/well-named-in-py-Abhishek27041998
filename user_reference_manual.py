@@ -1,6 +1,7 @@
-# This file contains formatted string as user manual guide
+# This file contains function to print formatted string
+# as user manual guide
 from config import *
-from get_pair_number_from_color import get_pair_number_from_color
+from color_code_utils import get_pair_number_from_color
 
 
 def color_pair_to_string(major_color, minor_color):

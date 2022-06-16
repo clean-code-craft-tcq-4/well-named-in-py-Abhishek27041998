@@ -1,5 +1,4 @@
-from get_color_from_pair_number import test_number_to_pair
-from get_pair_number_from_color import test_pair_to_number
+from test_color_code_utils import test_number_to_pair, test_pair_to_number
 from user_reference_manual import print_user_reference_manual
 
 
